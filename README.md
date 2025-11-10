@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ezekielsalazar17
-- 👀 I’m interested in Web Developer | Laravel PHP
-- 🌱 I’m currently learning Web Developer | Laravel PHP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Ezekiel Salazar
+- 👀 I'm a front-end developer
+
 
 <!---
 ezekielsalazar17/ezekielsalazar17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
