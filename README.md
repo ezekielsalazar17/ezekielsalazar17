@@ -1,8 +1,8 @@
 # Hi 👋 I'm Ezekiel C. Salazar
 
-## 🚀 Frontend Web Developer
+## 🚀 Full-Stack Web Developer
 
-I am a passionate Frontend Web Developer who loves building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world digital experiences using clean and efficient code.
+I am a passionate Full-Stack Web Developer who loves building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world digital experiences using clean and efficient code.
 
 ---
 
