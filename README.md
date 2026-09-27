@@ -19,10 +19,30 @@ I am a passionate Full-Stack Web Developer who loves building modern, responsive
 
 ---
 
+## 🗄️ Databases
+
+- 🍃 MongoDB  
+- 🐘 PostgreSQL  
+- 🐬 MySQL  
+- 🪶 SQLite  
+- 🔥 Firebase
+
+---
+
+## ✨ Animation
+
+- 🎞️ Framer Motion  
+- 🟩 GSAP  
+
+---
+
 ## 🛠️ Tools & Platforms
 
 - 🎨 Figma  
 - 🐙 GitHub  
+- 🔗 n8n  
+- 🤖 Claude Code  
+- 🐳 Docker
 
 ---
 
