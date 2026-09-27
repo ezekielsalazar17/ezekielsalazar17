@@ -10,6 +10,8 @@ I am a passionate Full-Stack Web Developer who loves building modern, responsive
 
 - ⚡ Next.js  
 - ⚛️ React  
+- 📱 React Native  
+- 📲 Expo Go  
 - 🟨 JavaScript  
 - 🌐 HTML  
 - 🎨 CSS  
