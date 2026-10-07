@@ -1,82 +1,85 @@
-# Hi 👋 I'm Ezekiel C. Salazar
+# Hi I'm Ezekiel C. Salazar
 
-## 🚀 Full-Stack Web Developer
+## Full-Stack Web Developer
 
 I am a passionate Full-Stack Web Developer who loves building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world digital experiences using clean and efficient code.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-- ⚡ Next.js  
-- ⚛️ React  
-- 📱 React Native  
-- 📲 Expo Go  
-- 🟨 JavaScript  
-- 🌐 HTML  
-- 🎨 CSS  
-- 🟢 Node.js  
-- 🚂 Express.js  
-- 📝 WordPress  
-
----
-
-## 🗄️ Databases
-
-- 🍃 MongoDB  
-- 🐘 PostgreSQL  
-- 🐬 MySQL  
-- 🪶 SQLite  
-- 🔥 Firebase
+- Next.js
+- React
+- React Native
+- Expo Go
+- JavaScript
+- HTML
+- CSS
+- Node.js
+- Express.js
+- Fastify
+- WordPress
 
 ---
 
-## ✨ Animation
+## Databases
 
-- 🎞️ Framer Motion  
-- 🟩 GSAP  
-
----
-
-## 🛠️ Tools & Platforms
-
-- 🎨 Figma  
-- 🐙 GitHub  
-- 🔗 n8n  
-- 🤖 Claude Code  
-- 🐳 Docker
+- MongoDB
+- PostgreSQL
+- MySQL
+- SQLite
+- Firebase
+- Supabase
 
 ---
 
-## 🎬 Creative Skills
+## ORM
+
+- Drizzle
+
+---
+
+## Animation
+
+- Framer Motion
+- GSAP
+
+---
+
+## Tools & Platforms
+
+- Figma
+- GitHub
+- n8n
+- Claude Code
+- Docker
+
+---
+
+## Creative Skills
 
 Aside from web development, I also work with multimedia tools:
 
-- 🎥 Video Editing (Basic) – Adobe Premiere Pro  
-- 🖼️ Photo Editing (Basic) – Adobe Photoshop  
+- Video Editing (Basic) – Adobe Premiere Pro
+- Photo Editing (Basic) – Adobe Photoshop
 
 ---
 
-## 📈 What I Do
+## What I Do
 
-- Build responsive and modern web applications  
-- Convert Figma designs into functional websites  
-- Develop frontend interfaces with React & Next.js  
-- Create simple backend APIs using Node.js & Express  
-- Build and customize WordPress websites  
+- Build responsive and modern web applications
+- Convert Figma designs into functional websites
+- Develop frontend interfaces with React & Next.js
+- Create simple backend APIs using Node.js, Express & Fastify
+- Build and customize WordPress websites
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-Feel free to explore my repositories and projects.  
+Feel free to explore my repositories and projects.
 I'm always open to learning, collaborating, and building new ideas!
 
 ---
 
-⭐ *"Keep learning. Keep building. Keep improving."*
-
-<!---
-ezekielsalazar17/ezekielsalazar17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*"Keep learning. Keep building. Keep improving."*
